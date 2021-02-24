@@ -1,0 +1,19 @@
+body {
+    background-color:  yellow;
+}
+div{
+    color: fuchsia;
+    font-size:150%;
+}
+h2 {
+    color: darkblue;
+}
+p {
+    color: lime;
+    font-size:120%; 
+}
+ul{
+    color: chocolate;
+    font-size:98,5%;
+}
+
